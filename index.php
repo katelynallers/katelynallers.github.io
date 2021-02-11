@@ -6,6 +6,7 @@
 -->
 <html>
 <head>
+                <script src="https://kit.fontawesome.com/94bab2e8e6.js" crossorigin="anonymous"></script> 
 		<title>Katelyn N. Allers</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -25,16 +26,16 @@
 					<ul>
 						<li><a href="#one" class="active">About</a></li>
 						<li><a href="#two">Things I Can Do</a></li>
-						<li><a href="#three">A Few Accomplishments</a></li>
+						<li><a href="#three">Things I Have Done</a></li>
 						<li><a href="#four">Contact</a></li>
 					</ul>
 				</nav>
 				<footer>
 					<ul class="icons">
 						<li><a href="https://twitter.com/katelynallers" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-						<!--<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li> -->
 						<li><a href="https://github.com/katelynallers" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="http://www.linkedin.com/in/katelyn-allers-4030b5a" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+						<li><a href="https://orcid.org/0000-0003-0580-7244" class="icon brands fa-orcid"></a></li>
 						<li><a href="#four" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
@@ -52,17 +53,21 @@
 									<img src="images/hubble_deep_field.jpg" alt="" />
 								</div>
 								<div class="container">
-									<header class="major">
-										<h2>About Me</h2>
-										<p>Professor of Physics and Astronomy at Bucknell University</p>
-									</header>
-									<p>I'm currently a Professor of Physics and Astronomy at Bucknell University. I am skilled at asking insightful questions, thinking about projects from multiple angles, and developing creative solutions. </p>
-								  <p>A list of <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Allers%2C%20K.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">all of my publications</a> and <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22%5EAllers%2C%20K.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">my first-authored publications</a> are available via ADS.
-								  </p>
-							          <ul class="actions">
-						<li><a href="cv.pdf" class="button scrolly" align="center">Curriculum Vitae</a></li>
+								<div class="features">
+								  <article>
+								 
+								  <a href="#" class="image"><img src="images/allers_fun.JPG" alt="" /></a>
+								  <div class="inner">
+								  <h2>About Me</h2>
+								  <p>I'm currently a Professor of Physics and Astronomy at Bucknell University. I am skilled at asking insightful questions, thinking about projects from multiple angles, and developing creative solutions. </p>
+								    <p>A list of <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Allers%2C%20K.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">all of my publications</a> and <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22%5EAllers%2C%20K.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">my first-authored publications</a> are available via ADS.
+								    <ul class="actions">
+								      <li><a href="cv.pdf" class="button primary">Curriculum Vitae</a></li>
+					<!--	<li><a href="cv.pdf" class="button scrolly" align="center">Curriculum Vitae</a></li> -->
 					</ul>
-								</div>
+								  </div></article>
+							</div></div>
+								
 							</section>
 
 						<!-- Two -->
@@ -75,9 +80,9 @@
 										<li class="icon solid fa-code">IDL, python, shell scripting, excel, databases</li>
 										<li class="icon solid fa-money-bill-wave">Grant proposals and management</li>
 										<li class="icon solid fa-chalkboard-teacher">Teaching, speaking, and writing for general and scientific audiences</li>
-										<li class="icon solid fa-balance-scale">Development and implementation of best practices for DEI </li>
+										<li class="icon solid fa-balance-scale">Development and implementation of best practices for diversity, equity, and inclusion </li>
 									
-										<li class="icon solid fa-users">Mentoring of students (academic, research, and personal) from diverse backgrounds</li>
+										<li class="icon solid fa-users">Mentoring students (academic, research, and personal) from diverse racial and socioeconomic backgrounds</li>
 									</ul>
 								</div>
 							</section>
@@ -86,13 +91,13 @@
 							<section id="three">
 								<div class="container">
 									<h3>Recent Projects</h3>
-									<p>Here's some fun things I've been working on:</p>
+									<p>Here's some fun things I've accomplished:</p>
 									<div class="features">
 										<article>
 											<a href="#" class="image"><img src="images/oph98.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Discovery of a binary planetary system</h4>
-											  <p>Using the Hubble Space Telescope, we recently published the discovery of Oph 98 AB, a very young (3 million year) system which includes objects with masses of 15 and 8 times that of Jupiter.  The gravity holding this system together is weaker than any other known system!</p>
+											  <p>Using the Hubble Space Telescope, we recently published the discovery of Oph 98 AB, a very young (3 million year) system which includes objects with masses of 15 and 8 times that of Jupiter.  The gravity holding this system together is weaker than any other known system, making Oph 98 a unique test for formation and evolution theories.</p>
 											        <li><a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...905L..14F/abstract">Publication</a></li>																			  <li><a href="https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2020/media_releases_2020/a_pair_of_lonely_planet_like_objects_born_like_stars/index_eng.html">Press</a> <a href="https://www.bucknell.edu/news/bucknell-astronomers-discover-binary-planetary-system">Releases</a></li>
 											  
 											</div>
